@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F779A1&center=true&vCenter=true&width=435&lines=Software+Developer;Tech+Innovator;AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F779A1&center=true&vCenter=true&width=600&lines=Software+Developer;Tech+Innovator;AI+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
