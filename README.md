@@ -5,6 +5,7 @@
   <a href="https://leetcode.com/u/5NjSSBDjNd/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"></a>
   <a href="https://www.linkedin.com/in/ashritha-rao-905249291/"><img src="https://img.shields.io/badge/LinkedIn-ashritha-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://github.com/thatipartiashritha"><img src="https://img.shields.io/badge/GitHub-ashritha-black?style=for-the-badge&logo=github"></a>
+  <a href="https://ashritha-portfolio-orcin.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel"></a>
 </p>
 
 ---
@@ -60,36 +61,4 @@
 
 ### 🏆 Certifications
 
-- ✅ Microsoft Certified: **Azure Fundamentals** – [View](https://drive.google.com/file/d/17T2WYRcHBFmAhOHk1USvC2gR1v6VrrBL/view?usp=sharing)
-- ✅ Cisco Certified: **Introduction to Networks**
-- ✅ **AWS Cloud Foundations**
-- ✅ NPTEL: **Theory of Computation**
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thatipartiashritha&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thatipartiashritha&theme=radical" />
-</p>
-
----
-
-### 🧩 LeetCode Progress
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/5NjSSBDjNd?ext=contest&theme=light" />
-</p>
-
----
-
-### 📬 Let's Connect
-
-📧 thatipartiashritha22@gmail.com  
-📱 +91-8522973533  
-🌐 [LinkedIn](https://www.linkedin.com/in/ashritha-rao-905249291/) | [GitHub](https://github.com/thatipartiashritha) | [LeetCode](https://leetcode.com/u/5NjSSBDjNd/)
-
----
-
-> *"Stay curious, keep coding, and chase your passion boldly!"* ✨
+- ✅ Microsoft Certified: **Azure Fundamentals** – [View](https://drive.google.com/file/d/17T2WYRcHBFmAhOHk1USvC)
