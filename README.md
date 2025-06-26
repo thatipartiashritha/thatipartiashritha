@@ -1,68 +1,95 @@
 <h1 align="center">Hi 👋, I'm Thatiparti Ashritha</h1>
-<h3 align="center">Aspiring Software Developer | CSE Undergrad | Passionate about DSA & AI</h3>
+<h3 align="center">👩‍💻 CSE Undergrad | DSA & ML Enthusiast | Hackathon Finalist</h3>
 
 <p align="center">
-  <a href="https://leetcode.com/u/5NjSSBDjNd/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Ashritha-orange?style=flat-square&logo=LeetCode&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/thatipartiashritha" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ashritha-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="https://github.com/thatipartiashritha" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Ashritha-black?style=flat-square&logo=github" />
-  </a>
+  <a href="https://leetcode.com/u/5NjSSBDjNd/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"></a>
+  <a href="https://www.linkedin.com/in/ashritha-rao-905249291/"><img src="https://img.shields.io/badge/LinkedIn-ashritha-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/thatipartiashritha"><img src="https://img.shields.io/badge/GitHub-ashritha-black?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
 
-### 🌱 About Me
+### 🌟 About Me
 
-- 🎓 I’m currently pursuing **B.Tech in Computer Science & Engineering**
-- 💡 I'm interested in **Data Structures & Algorithms**, **AI/ML**, and **Web Development**
-- 🚀 Currently working on: **Driver Distraction Detection System** (AI/ML)
-- 🌐 Check out my portfolio: *coming soon*
-
----
-
-### 🛠️ Languages and Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,c,cpp,mysql,git,vscode,linux,react" />
-</p>
+- 🎓 B.Tech Computer Science Student at **SR University** (2022–2026)
+- 👩‍💻 Passionate about **Machine Learning**, **Full Stack Development**, and **Problem Solving**
+- 🧠 CGPA: **9.55/10.0**
+- 💬 Ask me about `Python`, `C`, `Java`, or anything related to AI/ML & Web Dev!
+- 🚀 Fun fact: I love building impactful projects and mentoring peers!
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-e34c26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+#### 🔹 [🚀 Fake News Detection System](https://github.com/thatipartiashritha/fake_news_detection/blob/main/FakeNewsDetection.ipynb)
+> **AI/ML | Python, Scikit-Learn, TensorFlow, Keras**
+
+- Classified news articles as **fake or real** using Logistic Regression, Decision Trees, and Random Forest.
+- Used **TF-IDF**, tokenization, and other NLP preprocessing techniques.
+- Reduced misinformation spread by up to **70%** using real-time detection!
+
+#### 🔹 [📚 Library Management System](https://github.com/thatipartiashritha/library_management)
+> **Python CLI | Data Structures**
+
+- Managed inventory, book issuance/returns, user history, and searching.
+- Implemented with arrays, structures, and linked lists.
+- Improved operations and reduced management time by **50%**.
+
+#### 🔹 [⚡ Rapid Refund Processing System (Hackathon Finalist)](https://drive.google.com/file/d/1oaMWbEydzLNXbkO6TyWL1HNt5np6BPVQ/view?usp=sharing)
+> **ML + Web | Genzeon GenZverse Hackathon**
+
+- Ranked in **Top 3 out of 50+ teams**
+- Designed and built an ML-powered system to process customer refunds based on return history.
+- Enhanced accuracy and speed, impressing the judges with practical impact!
+
+---
+
+### 🏆 Certifications
+
+- ✅ Microsoft Certified: **Azure Fundamentals** – [View](https://drive.google.com/file/d/17T2WYRcHBFmAhOHk1USvC2gR1v6VrrBL/view?usp=sharing)
+- ✅ Cisco Certified: **Introduction to Networks**
+- ✅ **AWS Cloud Foundations**
+- ✅ NPTEL: **Theory of Computation**
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thatipartiashritha&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thatipartiashritha&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thatipartiashritha&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thatipartiashritha&theme=radical" />
 </p>
 
 ---
 
-### 📈 Leetcode Stats
+### 🧩 LeetCode Progress
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/5NjSSBDjNd?ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/5NjSSBDjNd?ext=contest&theme=light" />
 </p>
 
 ---
 
-### ✍️ Blog & Articles (Optional)
+### 📬 Let's Connect
 
-> _You can add this section if you write blogs (e.g., on Medium, Hashnode)_
-
----
-
-### 📫 Connect with Me
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/thatipartiashritha)
-- 💻 [GitHub](https://github.com/thatipartiashritha)
-- ✨ [Leetcode](https://leetcode.com/u/5NjSSBDjNd/)
+📧 thatipartiashritha22@gmail.com  
+📱 +91-8522973533  
+🌐 [LinkedIn](https://www.linkedin.com/in/ashritha-rao-905249291/) | [GitHub](https://github.com/thatipartiashritha) | [LeetCode](https://leetcode.com/u/5NjSSBDjNd/)
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
+> *"Stay curious, keep coding, and chase your passion boldly!"* ✨
