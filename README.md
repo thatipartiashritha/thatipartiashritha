@@ -8,6 +8,10 @@
   <a href="https://ashritha-portfolio-orcin.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel"></a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F779A1&center=true&vCenter=true&width=435&lines=Software+Developer;Tech+Innovator;AI+Enthusiast" alt="Typing SVG" />
+</p>
+
 ---
 
 ### 🌟 About Me
@@ -61,4 +65,39 @@
 
 ### 🏆 Certifications
 
-- ✅ Microsoft Certified: **Azure Fundamentals** – [View](https://drive.google.com/file/d/17T2WYRcHBFmAhOHk1USvC)
+- ✅ Microsoft Certified: **Azure Fundamentals** – [View](https://drive.google.com/file/d/17T2WYRcHBFmAhOHk1USvC2gR1v6VrrBL/view?usp=sharing)
+- ✅ Cisco Certified: **Introduction to Networks**
+- ✅ **AWS Cloud Foundations**
+- ✅ NPTEL: **Theory of Computation**
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thatipartiashritha&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thatipartiashritha&theme=radical" />
+</p>
+
+---
+
+### 🧩 LeetCode Progress
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/5NjSSBDjNd?ext=contest&theme=light" />
+</p>
+
+---
+
+### 📬 Let's Connect
+
+- 📧 **Email:** thatipartiashritha22@gmail.com  
+- 📱 **Phone:** +91-8522973533  
+- 🌐 **LinkedIn:** [ashritha-rao-905249291](https://www.linkedin.com/in/ashritha-rao-905249291/)  
+- 💻 **GitHub:** [thatipartiashritha](https://github.com/thatipartiashritha)  
+- 🔗 **LeetCode:** [5NjSSBDjNd](https://leetcode.com/u/5NjSSBDjNd/)  
+- ✨ **Portfolio:** [ashritha-portfolio-orcin.vercel.app](https://ashritha-portfolio-orcin.vercel.app/)
+
+---
+
+> *"Stay curious, keep coding, and chase your passion boldly!"* ✨
