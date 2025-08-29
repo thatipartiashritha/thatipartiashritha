@@ -2,8 +2,8 @@
 <h3 align="center">👩‍💻 CSE Undergrad | DSA & ML Enthusiast | Hackathon Finalist</h3>
 
 <p align="center">
-  <a href="https://leetcode.com/u/5NjSSBDjNd/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"></a>
-  <a href="https://www.linkedin.com/in/ashritha-rao-905249291/"><img src="https://img.shields.io/badge/LinkedIn-ashritha-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://leetcode.com/u/T_Ashritha/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"></a>
+  <a href="https://www.linkedin.com/in/thatipartiashritha/"><img src="https://img.shields.io/badge/LinkedIn-ashritha-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://github.com/thatipartiashritha"><img src="https://img.shields.io/badge/GitHub-ashritha-black?style=for-the-badge&logo=github"></a>
   <a href="https://ashritha-portfolio-orcin.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel"></a>
 </p>
