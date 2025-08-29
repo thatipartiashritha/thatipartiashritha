@@ -93,9 +93,9 @@
 
 - 📧 **Email:** thatipartiashritha22@gmail.com  
 - 📱 **Phone:** +91-8522973533  
-- 🌐 **LinkedIn:** [ashritha-rao-905249291](https://www.linkedin.com/in/ashritha-rao-905249291/)  
+- 🌐 **LinkedIn:** [ashritha-rao-905249291](https://www.linkedin.com/in/thatipartiashritha/)  
 - 💻 **GitHub:** [thatipartiashritha](https://github.com/thatipartiashritha)  
-- 🔗 **LeetCode:** [5NjSSBDjNd](https://leetcode.com/u/5NjSSBDjNd/)  
+- 🔗 **LeetCode:** [T_Ashritha](https://leetcode.com/u/T_Ashritha/)  
 - ✨ **Portfolio:** [ashritha-portfolio-orcin.vercel.app](https://ashritha-portfolio-orcin.vercel.app/)
 
 ---
